@@ -1,0 +1,15 @@
+C:\Users\lenit\Desktop\CScharp\Estudo em csharp\bin\Debug\net6.0\Estudo em csharp.exe
+C:\Users\lenit\Desktop\CScharp\Estudo em csharp\bin\Debug\net6.0\Estudo em csharp.deps.json
+C:\Users\lenit\Desktop\CScharp\Estudo em csharp\bin\Debug\net6.0\Estudo em csharp.runtimeconfig.json
+C:\Users\lenit\Desktop\CScharp\Estudo em csharp\bin\Debug\net6.0\Estudo em csharp.dll
+C:\Users\lenit\Desktop\CScharp\Estudo em csharp\bin\Debug\net6.0\Estudo em csharp.pdb
+C:\Users\lenit\Desktop\CScharp\Estudo em csharp\obj\Debug\net6.0\Estudo em csharp.csproj.AssemblyReference.cache
+C:\Users\lenit\Desktop\CScharp\Estudo em csharp\obj\Debug\net6.0\Estudo em csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenit\Desktop\CScharp\Estudo em csharp\obj\Debug\net6.0\Estudo em csharp.AssemblyInfoInputs.cache
+C:\Users\lenit\Desktop\CScharp\Estudo em csharp\obj\Debug\net6.0\Estudo em csharp.AssemblyInfo.cs
+C:\Users\lenit\Desktop\CScharp\Estudo em csharp\obj\Debug\net6.0\Estudo em csharp.csproj.CoreCompileInputs.cache
+C:\Users\lenit\Desktop\CScharp\Estudo em csharp\obj\Debug\net6.0\Estudo em csharp.dll
+C:\Users\lenit\Desktop\CScharp\Estudo em csharp\obj\Debug\net6.0\refint\Estudo em csharp.dll
+C:\Users\lenit\Desktop\CScharp\Estudo em csharp\obj\Debug\net6.0\Estudo em csharp.pdb
+C:\Users\lenit\Desktop\CScharp\Estudo em csharp\obj\Debug\net6.0\Estudo em csharp.genruntimeconfig.cache
+C:\Users\lenit\Desktop\CScharp\Estudo em csharp\obj\Debug\net6.0\ref\Estudo em csharp.dll
